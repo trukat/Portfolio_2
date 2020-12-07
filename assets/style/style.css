@@ -12,11 +12,15 @@ body {
   div.transbox {
     margin: 30px;
     background-color: #ffffff;
-    opacity: 0.6;
+    opacity: 0.8;
   }
   
   div.transbox p {
     margin: 5%;
     font-weight: bold;
     color: #000000;
+  }
+
+  img:hover {
+    opacity: 1.0;
   }
